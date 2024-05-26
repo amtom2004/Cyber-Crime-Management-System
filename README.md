@@ -16,7 +16,7 @@ A Cyber Crime Management System is a comprehensive platform designed to combat a
 ### Installation
 1. Clone the repository:
 ```
-git clone https://github.com/your-username/railway-reservation.git
+git clone https://github.com/<your username>/Cyber-Crime-Management-System.git
 ```
 2. Import the project into your preferred IDE.
 3. Set up the MySQL database and configure the database connection in the code.
