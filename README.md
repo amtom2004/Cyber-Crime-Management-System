@@ -1,5 +1,7 @@
-# Railway Reservation System
+# Cyber Crime Management System
 A Cyber Crime Management System is a comprehensive platform designed to combat and manage cybercrime activities. It integrates various processes to prevent, and respond to cyber threats.
+
+![Logo of the System.](https://ibb.co/JCDx1K5)
 
 ## Features
 - Add Cases: Users can add cases by providing necessary details.
